@@ -1,0 +1,12 @@
+nav{
+    background-color: rgb(160, 158, 158);
+    color: antiquewhite;
+    text-align: center;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 1000px;
+    
+}
+header{
+    background-color: aqua;
+}
